@@ -2,13 +2,22 @@
   "393951d82a9fb26cc753ba360d65d4a6" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "cf63f5bbf567b42b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1707080219403,
+        "stop" : 1707080231215,
+        "duration" : 11812
+      }
+    }, {
       "uid" : "551a38882583cc46",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: headless chrome=112.0.5615.165)",
