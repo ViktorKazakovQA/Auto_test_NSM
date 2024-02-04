@@ -6,13 +6,13 @@
       "name" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: headless chrome=112.0.5615.165)",
       "children" : [ {
         "name" : "Create NEW Problem",
-        "uid" : "2bbe9999f57a7b21",
+        "uid" : "551a38882583cc46",
         "parentUid" : "58a1d7d45de965cac7fe9e6e969c0de9",
         "status" : "broken",
         "time" : {
-          "start" : 1707076230000,
-          "stop" : 1707076231075,
-          "duration" : 1075
+          "start" : 1707078555585,
+          "stop" : 1707078555970,
+          "duration" : 385
         },
         "flaky" : false,
         "newFailed" : false,

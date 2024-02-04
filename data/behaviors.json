@@ -4,13 +4,13 @@
     "name" : "Creat problem functionality",
     "children" : [ {
       "name" : "Create NEW Problem",
-      "uid" : "2bbe9999f57a7b21",
+      "uid" : "551a38882583cc46",
       "parentUid" : "c9deceda2b274fbecf813c45477933c1",
       "status" : "broken",
       "time" : {
-        "start" : 1707076230000,
-        "stop" : 1707076231075,
-        "duration" : 1075
+        "start" : 1707078555585,
+        "stop" : 1707078555970,
+        "duration" : 385
       },
       "flaky" : false,
       "newFailed" : false,

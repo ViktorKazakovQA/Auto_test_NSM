@@ -2,13 +2,22 @@
   "393951d82a9fb26cc753ba360d65d4a6" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "551a38882583cc46",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: headless chrome=112.0.5615.165)",
+      "time" : {
+        "start" : 1707078555585,
+        "stop" : 1707078555970,
+        "duration" : 385
+      }
+    }, {
       "uid" : "2bbe9999f57a7b21",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: headless chrome=112.0.5615.165)",
