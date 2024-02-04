@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Creat problem functionality",
+    "children" : [ {
+      "name" : "Create NEW Problem",
+      "uid" : "2bbe9999f57a7b21",
+      "parentUid" : "c9deceda2b274fbecf813c45477933c1",
+      "status" : "broken",
+      "time" : {
+        "start" : 1707076230000,
+        "stop" : 1707076231075,
+        "duration" : 1075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c9deceda2b274fbecf813c45477933c1"
+  } ],
+  "name" : "behaviors"
+}

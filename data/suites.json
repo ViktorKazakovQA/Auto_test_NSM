@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "feature_problem_test",
+      "children" : [ {
+        "name" : "Test_ProfileFeature",
+        "children" : [ {
+          "name" : "Create NEW Problem",
+          "uid" : "2bbe9999f57a7b21",
+          "parentUid" : "2ca83b369a54efc81a4e11aed4c4a246",
+          "status" : "broken",
+          "time" : {
+            "start" : 1707076230000,
+            "stop" : 1707076231075,
+            "duration" : 1075
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2ca83b369a54efc81a4e11aed4c4a246"
+      } ],
+      "uid" : "606bccfb8921763958b2764c82f8d514"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ],
+  "name" : "suites"
+}
