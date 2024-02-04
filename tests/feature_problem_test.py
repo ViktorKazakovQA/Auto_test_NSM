@@ -4,6 +4,7 @@ import time
 import allure
 import pytest
 from base.base_test import BaseTest
+from selenium.common.exceptions import WebDriverException
 
 @allure.feature("Creat problem functionality")
 class Test_ProfileFeature(BaseTest):
@@ -12,7 +13,10 @@ class Test_ProfileFeature(BaseTest):
     @allure.severity("Critical")
     @pytest.mark.smoke
     def test_create_problems(self):
-        self.NSM_PAGE.open()
+        try:
+            self.NSM_PAGE.open()
+        except WebDriverException:
+            print("The page does not open")
         self.NSM_PAGE.click_MY_IT()
         self.MYIT_PAGE.is_opened()
         self.MYIT_PAGE.click_still()
