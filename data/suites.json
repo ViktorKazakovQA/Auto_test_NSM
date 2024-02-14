@@ -8,13 +8,13 @@
         "name" : "Test_ProfileFeature",
         "children" : [ {
           "name" : "Create NEW Problem",
-          "uid" : "cf63f5bbf567b42b",
+          "uid" : "b1be1355760d2dbc",
           "parentUid" : "2ca83b369a54efc81a4e11aed4c4a246",
           "status" : "broken",
           "time" : {
-            "start" : 1707080219403,
-            "stop" : 1707080231215,
-            "duration" : 11812
+            "start" : 1707914138778,
+            "stop" : 1707914139728,
+            "duration" : 950
           },
           "flaky" : false,
           "newFailed" : false,

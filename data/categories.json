@@ -3,22 +3,22 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "name" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: headless chrome=112.0.5615.165)",
       "children" : [ {
         "name" : "Create NEW Problem",
-        "uid" : "cf63f5bbf567b42b",
-        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "uid" : "b1be1355760d2dbc",
+        "parentUid" : "58a1d7d45de965cac7fe9e6e969c0de9",
         "status" : "broken",
         "time" : {
-          "start" : 1707080219403,
-          "stop" : 1707080231215,
-          "duration" : 11812
+          "start" : 1707914138778,
+          "stop" : 1707914139728,
+          "duration" : 950
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+      "uid" : "58a1d7d45de965cac7fe9e6e969c0de9"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],

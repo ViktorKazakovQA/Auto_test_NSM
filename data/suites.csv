@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sun Feb 04 20:56:59 GMT 2024","Sun Feb 04 20:57:11 GMT 2024","11812","tests","feature_problem_test","Test_ProfileFeature","","","Create NEW Problem",""
+"broken","Wed Feb 14 12:35:38 GMT 2024","Wed Feb 14 12:35:39 GMT 2024","950","tests","feature_problem_test","Test_ProfileFeature","","","Create NEW Problem",""
